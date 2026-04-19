@@ -24,7 +24,7 @@
 <div style="flex: 1;">
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Devasy23&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Devasy&show_icons=true&theme=radical)
 
 </div>
 
@@ -35,7 +35,7 @@
 <div style="flex: 1;">
 
 ### Trophies🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=Devasy23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Devasy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
